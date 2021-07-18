@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bm7/BhtZQWj8c/qDC7gPjcyIYKITuq6P3nYXrIZNx7L+/St4gWLkZnnR2a5w2Yur9eX3Owm7hAQeAkoVqJLzXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gcarmo\\Workspace\\Pessoal\\ZebraApi\\ZebraApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gcarmo\\.nuget\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
+    "C:\\Users\\gcarmo\\.nuget\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",
+    "C:\\Users\\gcarmo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gcarmo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gcarmo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\gcarmo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\gcarmo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\gcarmo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\gcarmo\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
